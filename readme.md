@@ -1,4 +1,4 @@
-# Origin issues (index.html)
+# Origin issues (index.html) [View the page](https://fadizahhar.github.io/CBUEM/)
 The HTML you provided is mostly valid, especially considering that it’s designed for email, which follows specific conventions to ensure compatibility across various email clients. Here are some points for improvement to ensure it’s fully valid and optimized for email clients:
 
 1. **DOCTYPE Declaration**:
@@ -33,7 +33,7 @@ The HTML you provided is mostly valid, especially considering that it’s design
 
 After applying these improvements, test the email in various clients to confirm compatibility. Email clients vary widely, and using a tool like Litmus or Email on Acid can help ensure consistent rendering.
 
-# Origin fix of (index.html)
+# Origin fix of (index.html : originfix.html) [View the page]([https://fadizahhar.github.io/CBUEM/](https://fadizahhar.github.io/CBUEM/originfix.html))
 the origin fix is the code fix of enhancements and best practices need to do 
 shared with AI the origin index html and replied for best practices in how to enhance the HTML to make it an emailer ready
 
@@ -128,7 +128,7 @@ Here's a cleaner, refactored HTML structure optimized for email formatting and r
 This layout follows best practices for email clients while remaining clean and efficient. features added!
 
 
-# Output Html Issues
+# Output Html Issues (originoutput.html) [View the page]([https://fadizahhar.github.io/CBUEM/](https://fadizahhar.github.io/CBUEM/originoutput.html))
 
 The provided HTML for the email has a few issues and areas for improvement, especially considering compatibility for email clients. Here are the main points:
 
@@ -202,7 +202,7 @@ Here’s a simpler and more email-compatible approach to your HTML structure:
 
 Testing in email preview tools like Litmus or Email on Acid will help verify these adjustments for different email clients.
 
-# Output fix
+# Output fix (outputfix.html) [View the page]([https://fadizahhar.github.io/CBUEM/](https://fadizahhar.github.io/CBUEM/outputfix.html))
 the output fix is the code fix of what we have as an output result and the best practice need to  have to make it an emailer ready
 
 Here’s a refined version of your code incorporating email best practices and responsive enhancements. The adjustments ensure consistent styling across email clients while maintaining clean, organized structure:
