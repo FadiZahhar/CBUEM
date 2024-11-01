@@ -1,4 +1,4 @@
-# Origin issues (index.html) [View the page](https://fadizahhar.github.io/CBUEM/)
+# Origin issues (index.html) <a href="https://fadizahhar.github.io/CBUEM/" target="_blank">View the page</a>
 The HTML you provided is mostly valid, especially considering that it’s designed for email, which follows specific conventions to ensure compatibility across various email clients. Here are some points for improvement to ensure it’s fully valid and optimized for email clients:
 
 1. **DOCTYPE Declaration**:
