@@ -202,7 +202,7 @@ Here’s a simpler and more email-compatible approach to your HTML structure:
 
 Testing in email preview tools like Litmus or Email on Acid will help verify these adjustments for different email clients.
 
-# Output fix (outputfix.html) <a href="https://fadizahhar.github.io/CBUEM/originoutput.html" target="_blank">outputfix</a>
+# Output fix (outputfix.html) <a href="https://fadizahhar.github.io/CBUEM/outputfix.html" target="_blank">outputfix</a>
 the output fix is the code fix of what we have as an output result and the best practice need to  have to make it an emailer ready
 
 Here’s a refined version of your code incorporating email best practices and responsive enhancements. The adjustments ensure consistent styling across email clients while maintaining clean, organized structure:
